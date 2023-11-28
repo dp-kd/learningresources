@@ -1,0 +1,3 @@
+[submodule "CS_Train/learningresources"]
+	path = CS_Train/learningresources
+	url = https://github.com/dp-kd/learningresources.git
